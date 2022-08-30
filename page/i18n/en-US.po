@@ -1,0 +1,30 @@
+
+msgid "title"
+msgstr "Reaction Test"
+
+msgid "desc1"
+msgstr "When it turns green,"
+
+msgid "desc2"
+msgstr "Click as quickly as you can"
+
+msgid "begin"
+msgstr "Begin"
+
+msgid "wait"
+msgstr "Wait for green"
+
+msgid "click"
+msgstr "Click!"
+
+msgid "continue"
+msgstr "Click to keep going"
+
+msgid "early"
+msgstr "Too soon!"
+
+msgid "avg"
+msgstr "Average Reaction Time"
+
+msgid "again"
+msgstr "Try again"

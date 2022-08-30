@@ -1,0 +1,29 @@
+msgid "title"
+msgstr "反应测试" 
+
+msgid "desc1"
+msgstr "当它变成绿色时," 
+
+msgid "desc2"
+msgstr "尽可能快地单击"
+
+msgid "begin"
+msgstr "开始"
+
+msgid "wait"
+msgstr "等待绿色"
+
+msgid "click"
+msgstr "点击!"
+
+msgid "continue"
+msgstr "点击继续前进"
+
+msgid "early"
+msgstr "太快了!"
+
+msgid "avg"
+msgstr "平均反应时间"
+
+msgid "again"
+msgstr "再试一次"
